@@ -1,4 +1,5 @@
 # Sapper
 
-
-It can be ran via program of Xcode. You need to download file and open in Xcode that's it.
+1) Download all files in this repository.
+2) Open this file(Sapper.xcodeproj) only through the XCode program.
+3) Run it.
